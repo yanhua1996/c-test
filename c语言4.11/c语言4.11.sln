@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c语言4.11", "c语言4.11\c语言4.11.vcxproj", "{620C99CF-2E5A-4822-B275-67CBD6642ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Debug|x64.ActiveCfg = Debug|x64
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Debug|x64.Build.0 = Debug|x64
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Debug|x86.ActiveCfg = Debug|Win32
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Debug|x86.Build.0 = Debug|Win32
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Release|x64.ActiveCfg = Release|x64
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Release|x64.Build.0 = Release|x64
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Release|x86.ActiveCfg = Release|Win32
+		{620C99CF-2E5A-4822-B275-67CBD6642ABA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FB408B-F86D-409E-8272-7DD43B2F2255}
+	EndGlobalSection
+EndGlobal
